@@ -140,7 +140,7 @@ max-height: 100px;
 	 padding:0 0rem 0 1rem;
 	 outline:none;
 	 transition:all .2s ease;
-	 background:#fff url(/images/search.png) .6rem .5rem no-repeat;
+	 background:#fff url(https://cdn.jsdelivr.net/gh/chinobing/image-hosting@main/search.png) .6rem .5rem no-repeat;
 	 background-size:1rem;
 }
 #local-search-result .search-result-list .search-result {
